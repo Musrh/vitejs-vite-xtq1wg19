@@ -1,4 +1,4 @@
 <template>
-<h3>Welcome to our Website<h/3>
+<h3>Welcome to your Store<h/3>
 
 </template>
